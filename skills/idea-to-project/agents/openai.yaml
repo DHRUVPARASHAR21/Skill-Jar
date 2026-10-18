@@ -1,0 +1,4 @@
+interface:
+  display_name: "Idea to Project"
+  short_description: "Turn validated ideas into build-ready foundations"
+  default_prompt: "Use $idea-to-project to turn my notes into a build-ready project foundation."
